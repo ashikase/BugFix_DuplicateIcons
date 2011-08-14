@@ -1,0 +1,14 @@
+Package: jp.ashikase.bugfix.duplicateicons
+Name: Bug Fix: Duplicate Icons
+Description: Prevent bug that resets icon layouts.
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=duplicateiconsfixData
+Homepage: http://github.com/ashikase/BugFix_DuplicateIcons
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Lance Fetters (ashikase) <gaizin@gmail.com>
+dev: ashikase
+Section: Tweaks
+Depends: mobilesubstrate
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
